@@ -8,3 +8,6 @@
 
 # $CRL Contract
 0x1d2c03A6240FfE5bc2edb8c408e3eFFB3353282F
+
+# $CRL Main Pool
+0x1c14d0784ebfdaca28d05ccdaf6bcb6f7f01d377
