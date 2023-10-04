@@ -116,6 +116,7 @@ Users face uncertainties regarding the safety of their funds and the reliability
 Managing risk in DeFi requires sophisticated strategies to identify and mitigate potential threats. Additionally, establishing a robust emergency response plan is crucial to protect user assets in the event of an unforeseen incident.
 
 # 3. CurveLlama Architecture
+
 # 3.1 Core Components
 
 CurveLlama consists of:
