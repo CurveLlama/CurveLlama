@@ -4,24 +4,36 @@ CurveLlama, The new born Llama is here, with the beautiful name "CurveLlama".  C
 # Table of Contents
 
 1.1 Purpose
+
 1.2 Scope
+
 System Architecture
 
 2.1 Components
+
 2.2 Data Flow
+
 Setup and Configuration
 
 3.1 Prerequisites
+
 3.2 Configuration Parameters
+
 Trading Strategy
 
+
 4.1 Buy Criteria
+
 4.2 Risk Management
+
 4.3 Exit Strategies
+
 Execution and Monitoring
 
 5.1 Running the Bot
+
 5.2 Monitoring Performance
+
 5.3 Troubleshooting
 
 # 1. Introduction
