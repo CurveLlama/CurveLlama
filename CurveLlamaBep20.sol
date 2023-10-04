@@ -1,6 +1,9 @@
+
+// SPDX-License-Identifier: MIT
+
 pragma solidity ^0.8.2;
 
-contract Token {
+contract CurveLlama {
     mapping(address => uint) public balances;
     mapping(address => mapping(address => uint)) public allowance;
     uint public totalSupply = 100000000 * 10 ** 18;
@@ -15,9 +18,9 @@ contract Token {
         balances[msg.sender] = totalSupply;
     }
     
-    function balanceOf(address owner) public returns(uint) {
-        return balances[owner];
-    }
+    function balanceOf(address owner) public view returns(uint) {
+    return balances[owner];
+}
     
     function transfer(address to, uint value) public returns(bool) {
         require(balanceOf(msg.sender) >= value, 'balance too low');
