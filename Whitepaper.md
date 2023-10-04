@@ -101,27 +101,34 @@ Foster a community-driven governance model.
 
 This whitepaper outlines the core components, features, security measures, and benefits of CurveLlama. It also discusses the utility of the CLAMA token and provides insights into the project's development roadmap.
 
-2. Problem Statement
+# 2. Problem Statement
 
-2.1 DeFi Vulnerabilities
+# 2.1 DeFi Vulnerabilities
+
 The DeFi space has witnessed numerous security incidents, including smart contract vulnerabilities, flash loan attacks, and governance exploits. These events have eroded user confidence and hindered the widespread adoption of decentralized finance.
 
-2.2 Security Concerns
+# 2.2 Security Concerns
+
 Users face uncertainties regarding the safety of their funds and the reliability of protocols. Traditional risk management techniques are often inadequate in the rapidly evolving DeFi landscape.
 
-2.3 Risk Management Challenges
+# 2.3 Risk Management Challenges
+
 Managing risk in DeFi requires sophisticated strategies to identify and mitigate potential threats. Additionally, establishing a robust emergency response plan is crucial to protect user assets in the event of an unforeseen incident.
 
-3. CurveLlama Architecture
-3.1 Core Components
+# 3. CurveLlama Architecture
+# 3.1 Core Components
+
 CurveLlama consists of:
 
 Risk Assessment Engine: Utilizes advanced algorithms to assess potential vulnerabilities in smart contracts and protocol operations.
 Dynamic Liquidity Pools: Optimizes liquidity utilization through intelligent asset allocation.
 Governance Module: Empowers the community to participate in decision-making processes.
-3.2 Technology Stack
+
+# 3.2 Technology Stack
+
 CurveLlama leverages a combination of Ethereum-based smart contracts and off-chain infrastructure to achieve its objectives. This includes state-of-the-art consensus mechanisms, encryption protocols, and auditing tools.
 
-3.3 Governance Mechanism
+# 3.3 Governance Mechanism
+
 Decisions within CurveLlama are made through a decentralized autonomous organization (DAO). CLAMA token holders can participate in proposing and voting on protocol upgrades, risk management strategies, and other critical matters.
 
