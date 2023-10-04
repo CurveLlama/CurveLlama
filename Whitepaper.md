@@ -1,4 +1,4 @@
-# CurveLlama: Redefining DeFi Safety
+# CurveLlama v2: Redefining DeFi Safety
 
 
 CurveLlama is a revolutionary DeFi protocol designed to enhance the security and stability of decentralized finance platforms. By implementing advanced risk management strategies and utilizing cutting-edge technology, CurveLlama aims to mitigate vulnerabilities commonly associated with DeFi projects. This whitepaper provides an in-depth overview of CurveLlama, detailing its innovative features, underlying technologies, and the benefits it brings to the decentralized finance ecosystem.
