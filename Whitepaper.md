@@ -131,7 +131,7 @@ CurveLlama leverages a combination of Ethereum-based smart contracts and off-cha
 
 ## 3.3 Governance Mechanism
 
-Decisions within CurveLlama are made through a decentralized autonomous organization (DAO). CLAMA token holders can participate in proposing and voting on protocol upgrades, risk management strategies, and other critical matters.
+Decisions within CurveLlama are made through a decentralized autonomous organization (DAO). CRL token holders can participate in proposing and voting on protocol upgrades, risk management strategies, and other critical matters.
 
 # 4. Innovative Features
 
@@ -140,8 +140,8 @@ Decisions within CurveLlama are made through a decentralized autonomous organiza
 CurveLlama employs state-of-the-art risk assessment techniques to evaluate potential vulnerabilities in smart contracts and protocol operations. This proactive approach allows for early detection and mitigation of potential threats.
 
 ## 4.2 Smart Contract Auditing
-A
-ll smart contracts within the CurveLlama ecosystem undergo rigorous auditing by reputable third-party firms. This ensures that code is secure, reliable, and free from critical vulnerabilities before deployment.
+
+All smart contracts within the CurveLlama ecosystem undergo rigorous auditing by reputable third-party firms. This ensures that code is secure, reliable, and free from critical vulnerabilities before deployment.
 
 ## 4.3 Dynamic Liquidity Pools
 
@@ -149,7 +149,7 @@ CurveLlama's dynamic liquidity pools utilize advanced algorithms to optimize the
 
 ## 4.4 Community-Driven Governance
 
-CurveLlama prioritizes community involvement in decision-making processes. CLAMA token holders can propose and vote on protocol upgrades, risk management strategies, and other critical matters, ensuring a decentralized and inclusive governance model.
+CurveLlama prioritizes community involvement in decision-making processes. CRL token holders can propose and vote on protocol upgrades, risk management strategies, and other critical matters, ensuring a decentralized and inclusive governance model.
 
 # 5. Security Measures
 
@@ -159,7 +159,7 @@ CurveLlama undergoes thorough security audits and testing by reputable third-par
 
 ## 5.2 Multi-Signature Transactions
 
-Critical transactions, such as protocol upgrades and fund movements, require multi-signature authorization from trusted parties. This additional layer of security prevents unauthorized access and enhances the overall security posture of CurveLlama.
+Critical transactions, such as protocol upgrades and fund movements, require multi-signature authorization from trusted parties. This additional layer of security prevents unauthorized access and enhances the overall security posture of CurveLlama. This will only be used within the team. - No tokens will be moved out of the barns. You can find the Barns here: 
 
 ## 5.3 Insurance Partnerships
 
@@ -189,23 +189,23 @@ CurveLlama's community-driven governance model empowers users to actively partic
 
 # 7. Tokenomics and Distribution
 
-## 7.1 CLAMA Token Utility
+## 7.1 CRL Token Utility
 
-The CLAMA token serves as the native utility token of the CurveLlama ecosystem. It has various functions including:
+The CRL token serves as the native utility token of the CurveLlama ecosystem. It has various functions including:
 
-Governance: CLAMA holders can participate in proposing and voting on protocol upgrades, risk management strategies, and other critical decisions.
+Governance: CRL holders can participate in proposing and voting on protocol upgrades, risk management strategies, and other critical decisions.
 
-Staking and Rewards: Users can stake CLAMA to earn rewards, providing an incentive for active participation in the ecosystem.
+Staking and Rewards: Users can stake CRL to earn rewards, providing an incentive for active participation in the ecosystem.
 
-Fee Discounts: CLAMA holders may receive fee discounts for utilizing certain features and services within the CurveLlama platform.
+Fee Discounts: CRL holders may receive fee discounts for utilizing certain features and services within the CurveLlama platform.
 
 ## 7.2 Governance and Voting
 
-CurveLlama's governance model is designed to be transparent, inclusive, and decentralized. Decisions are made through a DAO, where CLAMA holders have the power to propose and vote on important matters.
+CurveLlama's governance model is designed to be transparent, inclusive, and decentralized. Decisions are made through a DAO, where CRL holders have the power to propose and vote on important matters.
 
 ## 7.3 Initial Distribution
 
-The initial distribution of CLAMA tokens will be conducted through a fair and transparent process. Details regarding the distribution mechanism, allocation percentages, and vesting schedules will be outlined in a separate document.
+The initial distribution of CRL tokens will be conducted through a fair and transparent process. Details regarding the distribution mechanism, allocation percentages, and vesting schedules will be outlined in a separate document.
 
 # 8. Roadmap and Development
 
