@@ -159,7 +159,7 @@ CurveLlama undergoes thorough security audits and testing by reputable third-par
 
 ## 5.2 Multi-Signature Transactions
 
-Critical transactions, such as protocol upgrades and fund movements, require multi-signature authorization from trusted parties. This additional layer of security prevents unauthorized access and enhances the overall security posture of CurveLlama. This will only be used within the team. - No tokens will be moved out of the barns. You can find the Barns here: 
+Critical transactions, such as protocol upgrades and fund movements, require multi-signature authorization from trusted parties. This additional layer of security prevents unauthorized access and enhances the overall security posture of CurveLlama. This will only be used within the team. You can find the team wallets here: https://github.com/CurveLlama/CurveLlama/blob/main/CurveLlama%20Barns.MD
 
 ## 5.3 Insurance Partnerships
 
