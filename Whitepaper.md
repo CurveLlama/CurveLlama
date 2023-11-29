@@ -99,7 +99,7 @@ Foster a community-driven governance model.
 
 ## 1.3 Scope
 
-This whitepaper outlines the core components, features, security measures, and benefits of CurveLlama. It also discusses the utility of the CLAMA token and provides insights into the project's development roadmap.
+This whitepaper outlines the core components, features, security measures, and benefits of CurveLlama. It also discusses the utility of the CRL token and provides insights into the project's development roadmap.
 
 # 2. Problem Statement
 
